@@ -1,0 +1,4 @@
+System Health Report
+CPU Usage: 45%
+Memory Usage: 60%
+Disk Usage: 70%
